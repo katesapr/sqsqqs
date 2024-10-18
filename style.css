@@ -1,0 +1,26 @@
+html{
+    background-color: darkgray;
+}
+
+body {
+    border: 2px solid blue;
+    width: 1000px;
+    margin: 0 auto;
+    background-color: honeydew;
+    padding: 0 100px 100px 100px;
+    border: 2px solid bisque;
+  }
+  
+.login {
+    display: flex;
+    justify-content: center;
+  }
+  
+.password {
+    display: flex;
+    justify-content: center;
+  }
+ .sign_in {
+    display: flex;
+    justify-content: center;
+ }
